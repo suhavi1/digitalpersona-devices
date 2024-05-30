@@ -1,6 +1,6 @@
 import { Base64Url, Utf8 } from '@digitalpersona/core';
 import { MessageType } from './messages';
-//import 'WebSdk';
+import '../../../../../../../src/assets/modules/websdk';
 /**@internal
  *
  */
